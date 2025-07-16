@@ -1,7 +1,1 @@
-- 👋 Hi, I’m Jonas
-- 👀 I’m interested in History, Art, Archeology, GeoData and Philosophy
-- 🌱 I’m currently learning to work with GeoData
-- 💞️ I’m looking to collaborate on building a GeoData Database for Archeologists and amateur Historians
-- 📫 How to reach me: huemmerstein@gmail.com
-- 😄 Pronouns: he
-- ⚡ Fun fact: there was once a map so detailed that it was bigger than the world it displayed
+
